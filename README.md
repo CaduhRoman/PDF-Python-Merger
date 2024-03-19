@@ -1,4 +1,4 @@
-READ TO KNOW HOW TO USE IT:
+READ TO LEARN HOW TO USE IT:
 
 lan-EN:
 To use the program, you must place the two or more PDFs you want to merge in the folder: "arquivos_em_pdf" and rename them in numerical order, so that the final PDF is merged in the desired order.
